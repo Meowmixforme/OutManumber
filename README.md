@@ -2,7 +2,7 @@ My very first project for the foundation year at university.
 
 # OutManumber
 
-OutManumber is a digital board game developed using Flowgorithm as a foundation year project by James Fothergill. In this two-player game, participants traverse a game board, encountering spaces with positive and negative numbers. Landing on a positive number propels you forward, while a negative number sends you backwards, with the magnitude determining the number of spaces moved.
+OutManumber is a digital board game developed using Flowgorithm as a foundation year project. In this two-player game, participants traverse a game board, encountering spaces with positive and negative numbers. Landing on a positive number propels you forward, while a negative number sends you backwards, with the magnitude determining the number of spaces moved.
 
 ## Overview
 
